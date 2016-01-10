@@ -1,8 +1,8 @@
 //
 //  AppDelegate.m
-//  JRLoopView
+//  JRLoopView5
 //
-//  Created by wxiao on 16/1/9.
+//  Created by wxiao on 16/1/10.
 //  Copyright © 2016年 wxiao. All rights reserved.
 //
 

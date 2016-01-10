@@ -20,7 +20,6 @@
 	if (self = [super initWithFrame:frame]) {
 		self.clipsToBounds				= YES;
 		self.imageView					= [[UIImageView alloc] initWithFrame:self.bounds];
-		self.imageView.backgroundColor	= [UIColor orangeColor];
 		self.imageTotal					= [self.imageArray count];
 		self.index						= 0;
 		self.imageView.userInteractionEnabled = YES;

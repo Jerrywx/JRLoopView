@@ -9,10 +9,50 @@
 			<key>orderHint</key>
 			<integer>0</integer>
 		</dict>
+		<key>JRLoopView2.xcscheme</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>1</integer>
+		</dict>
+		<key>JRLoopView3.xcscheme</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>2</integer>
+		</dict>
+		<key>JRLoopView4.xcscheme</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>3</integer>
+		</dict>
+		<key>JRLoopView5.xcscheme</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>4</integer>
+		</dict>
 	</dict>
 	<key>SuppressBuildableAutocreation</key>
 	<dict>
 		<key>3438DB2B1C408B4A00F7F6AB</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>3438DB591C4228EA00F7F6AB</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>349B38451C425D8A0061343E</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>349B386B1C4260070061343E</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>349B38911C42B1460061343E</key>
 		<dict>
 			<key>primary</key>
 			<true/>

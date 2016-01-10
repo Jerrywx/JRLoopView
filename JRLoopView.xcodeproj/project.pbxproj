@@ -8,31 +8,132 @@
 
 /* Begin PBXBuildFile section */
 		3438DB311C408B4A00F7F6AB /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 3438DB301C408B4A00F7F6AB /* main.m */; };
-		3438DB341C408B4A00F7F6AB /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = 3438DB331C408B4A00F7F6AB /* AppDelegate.m */; };
-		3438DB371C408B4A00F7F6AB /* ViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 3438DB361C408B4A00F7F6AB /* ViewController.m */; };
 		3438DB3A1C408B4A00F7F6AB /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 3438DB381C408B4A00F7F6AB /* Main.storyboard */; };
 		3438DB3C1C408B4A00F7F6AB /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 3438DB3B1C408B4A00F7F6AB /* Assets.xcassets */; };
 		3438DB3F1C408B4A00F7F6AB /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 3438DB3D1C408B4A00F7F6AB /* LaunchScreen.storyboard */; };
-		3438DB481C408BB500F7F6AB /* JRLoopView.m in Sources */ = {isa = PBXBuildFile; fileRef = 3438DB471C408BB500F7F6AB /* JRLoopView.m */; };
+		3438DB531C42280B00F7F6AB /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = 3438DB4D1C42280B00F7F6AB /* AppDelegate.m */; };
+		3438DB541C42280B00F7F6AB /* ViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 3438DB4F1C42280B00F7F6AB /* ViewController.m */; };
+		3438DB551C42280B00F7F6AB /* JRLoopView.m in Sources */ = {isa = PBXBuildFile; fileRef = 3438DB521C42280B00F7F6AB /* JRLoopView.m */; };
+		3438DB5E1C4228EA00F7F6AB /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 3438DB5D1C4228EA00F7F6AB /* main.m */; };
+		3438DB671C4228EA00F7F6AB /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 3438DB651C4228EA00F7F6AB /* Main.storyboard */; };
+		3438DB691C4228EA00F7F6AB /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 3438DB681C4228EA00F7F6AB /* Assets.xcassets */; };
+		3438DB6C1C4228EA00F7F6AB /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 3438DB6A1C4228EA00F7F6AB /* LaunchScreen.storyboard */; };
+		3438DB771C42293C00F7F6AB /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = 3438DB731C42293C00F7F6AB /* AppDelegate.m */; };
+		3438DB781C42293C00F7F6AB /* ViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 3438DB751C42293C00F7F6AB /* ViewController.m */; };
+		3438DB7B1C4229EE00F7F6AB /* JRLoopView.m in Sources */ = {isa = PBXBuildFile; fileRef = 3438DB7A1C4229EE00F7F6AB /* JRLoopView.m */; };
+		349B384A1C425D8B0061343E /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 349B38491C425D8B0061343E /* main.m */; };
+		349B38531C425D8B0061343E /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 349B38511C425D8B0061343E /* Main.storyboard */; };
+		349B38551C425D8B0061343E /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 349B38541C425D8B0061343E /* Assets.xcassets */; };
+		349B38581C425D8B0061343E /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 349B38561C425D8B0061343E /* LaunchScreen.storyboard */; };
+		349B38651C425DC60061343E /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = 349B385F1C425DC60061343E /* AppDelegate.m */; };
+		349B38661C425DC60061343E /* ViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 349B38611C425DC60061343E /* ViewController.m */; };
+		349B38671C425DC60061343E /* JRLoopView.m in Sources */ = {isa = PBXBuildFile; fileRef = 349B38641C425DC60061343E /* JRLoopView.m */; };
+		349B38701C4260070061343E /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 349B386F1C4260070061343E /* main.m */; };
+		349B38791C4260070061343E /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 349B38771C4260070061343E /* Main.storyboard */; };
+		349B387B1C4260070061343E /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 349B387A1C4260070061343E /* Assets.xcassets */; };
+		349B387E1C4260070061343E /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 349B387C1C4260070061343E /* LaunchScreen.storyboard */; };
+		349B388B1C42602C0061343E /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = 349B38851C42602C0061343E /* AppDelegate.m */; };
+		349B388C1C42602C0061343E /* ViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 349B38871C42602C0061343E /* ViewController.m */; };
+		349B388D1C42602C0061343E /* JRLoopView.m in Sources */ = {isa = PBXBuildFile; fileRef = 349B388A1C42602C0061343E /* JRLoopView.m */; };
+		349B38961C42B1460061343E /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 349B38951C42B1460061343E /* main.m */; };
+		349B38991C42B1460061343E /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = 349B38981C42B1460061343E /* AppDelegate.m */; };
+		349B389C1C42B1460061343E /* ViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 349B389B1C42B1460061343E /* ViewController.m */; };
+		349B389F1C42B1460061343E /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 349B389D1C42B1460061343E /* Main.storyboard */; };
+		349B38A11C42B1460061343E /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 349B38A01C42B1460061343E /* Assets.xcassets */; };
+		349B38A41C42B1460061343E /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 349B38A21C42B1460061343E /* LaunchScreen.storyboard */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
 		3438DB2C1C408B4A00F7F6AB /* JRLoopView.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = JRLoopView.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		3438DB301C408B4A00F7F6AB /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
-		3438DB321C408B4A00F7F6AB /* AppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = AppDelegate.h; sourceTree = "<group>"; };
-		3438DB331C408B4A00F7F6AB /* AppDelegate.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = AppDelegate.m; sourceTree = "<group>"; };
-		3438DB351C408B4A00F7F6AB /* ViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = ViewController.h; sourceTree = "<group>"; };
-		3438DB361C408B4A00F7F6AB /* ViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = ViewController.m; sourceTree = "<group>"; };
 		3438DB391C408B4A00F7F6AB /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
 		3438DB3B1C408B4A00F7F6AB /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		3438DB3E1C408B4A00F7F6AB /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		3438DB401C408B4A00F7F6AB /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
-		3438DB461C408BB500F7F6AB /* JRLoopView.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = JRLoopView.h; sourceTree = "<group>"; };
-		3438DB471C408BB500F7F6AB /* JRLoopView.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = JRLoopView.m; sourceTree = "<group>"; };
+		3438DB4C1C42280B00F7F6AB /* AppDelegate.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = AppDelegate.h; sourceTree = "<group>"; };
+		3438DB4D1C42280B00F7F6AB /* AppDelegate.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = AppDelegate.m; sourceTree = "<group>"; };
+		3438DB4E1C42280B00F7F6AB /* ViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ViewController.h; sourceTree = "<group>"; };
+		3438DB4F1C42280B00F7F6AB /* ViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = ViewController.m; sourceTree = "<group>"; };
+		3438DB511C42280B00F7F6AB /* JRLoopView.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = JRLoopView.h; sourceTree = "<group>"; };
+		3438DB521C42280B00F7F6AB /* JRLoopView.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = JRLoopView.m; sourceTree = "<group>"; };
+		3438DB5A1C4228EA00F7F6AB /* JRLoopView2.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = JRLoopView2.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		3438DB5D1C4228EA00F7F6AB /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
+		3438DB661C4228EA00F7F6AB /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
+		3438DB681C4228EA00F7F6AB /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
+		3438DB6B1C4228EA00F7F6AB /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
+		3438DB6D1C4228EA00F7F6AB /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		3438DB721C42293C00F7F6AB /* AppDelegate.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = AppDelegate.h; sourceTree = "<group>"; };
+		3438DB731C42293C00F7F6AB /* AppDelegate.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = AppDelegate.m; sourceTree = "<group>"; };
+		3438DB741C42293C00F7F6AB /* ViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ViewController.h; sourceTree = "<group>"; };
+		3438DB751C42293C00F7F6AB /* ViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = ViewController.m; sourceTree = "<group>"; };
+		3438DB791C4229EE00F7F6AB /* JRLoopView.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = JRLoopView.h; sourceTree = "<group>"; };
+		3438DB7A1C4229EE00F7F6AB /* JRLoopView.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = JRLoopView.m; sourceTree = "<group>"; };
+		349B38461C425D8A0061343E /* JRLoopView3.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = JRLoopView3.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		349B38491C425D8B0061343E /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
+		349B38521C425D8B0061343E /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
+		349B38541C425D8B0061343E /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
+		349B38571C425D8B0061343E /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
+		349B38591C425D8B0061343E /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		349B385E1C425DC60061343E /* AppDelegate.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = AppDelegate.h; sourceTree = "<group>"; };
+		349B385F1C425DC60061343E /* AppDelegate.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = AppDelegate.m; sourceTree = "<group>"; };
+		349B38601C425DC60061343E /* ViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ViewController.h; sourceTree = "<group>"; };
+		349B38611C425DC60061343E /* ViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = ViewController.m; sourceTree = "<group>"; };
+		349B38631C425DC60061343E /* JRLoopView.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = JRLoopView.h; sourceTree = "<group>"; };
+		349B38641C425DC60061343E /* JRLoopView.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = JRLoopView.m; sourceTree = "<group>"; };
+		349B386C1C4260070061343E /* JRLoopView4.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = JRLoopView4.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		349B386F1C4260070061343E /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
+		349B38781C4260070061343E /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
+		349B387A1C4260070061343E /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
+		349B387D1C4260070061343E /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
+		349B387F1C4260070061343E /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		349B38841C42602C0061343E /* AppDelegate.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = AppDelegate.h; sourceTree = "<group>"; };
+		349B38851C42602C0061343E /* AppDelegate.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = AppDelegate.m; sourceTree = "<group>"; };
+		349B38861C42602C0061343E /* ViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ViewController.h; sourceTree = "<group>"; };
+		349B38871C42602C0061343E /* ViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = ViewController.m; sourceTree = "<group>"; };
+		349B38891C42602C0061343E /* JRLoopView.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = JRLoopView.h; sourceTree = "<group>"; };
+		349B388A1C42602C0061343E /* JRLoopView.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = JRLoopView.m; sourceTree = "<group>"; };
+		349B38921C42B1460061343E /* JRLoopView5.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = JRLoopView5.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		349B38951C42B1460061343E /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
+		349B38971C42B1460061343E /* AppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = AppDelegate.h; sourceTree = "<group>"; };
+		349B38981C42B1460061343E /* AppDelegate.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = AppDelegate.m; sourceTree = "<group>"; };
+		349B389A1C42B1460061343E /* ViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = ViewController.h; sourceTree = "<group>"; };
+		349B389B1C42B1460061343E /* ViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = ViewController.m; sourceTree = "<group>"; };
+		349B389E1C42B1460061343E /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
+		349B38A01C42B1460061343E /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
+		349B38A31C42B1460061343E /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
+		349B38A51C42B1460061343E /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
 		3438DB291C408B4A00F7F6AB /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		3438DB571C4228EA00F7F6AB /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		349B38431C425D8A0061343E /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		349B38691C4260070061343E /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		349B388F1C42B1460061343E /* Frameworks */ = {
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
@@ -46,6 +147,10 @@
 			isa = PBXGroup;
 			children = (
 				3438DB2E1C408B4A00F7F6AB /* JRLoopView */,
+				3438DB5B1C4228EA00F7F6AB /* JRLoopView2 */,
+				349B38471C425D8A0061343E /* JRLoopView3 */,
+				349B386D1C4260070061343E /* JRLoopView4 */,
+				349B38931C42B1460061343E /* JRLoopView5 */,
 				3438DB2D1C408B4A00F7F6AB /* Products */,
 			);
 			sourceTree = "<group>";
@@ -54,6 +159,10 @@
 			isa = PBXGroup;
 			children = (
 				3438DB2C1C408B4A00F7F6AB /* JRLoopView.app */,
+				3438DB5A1C4228EA00F7F6AB /* JRLoopView2.app */,
+				349B38461C425D8A0061343E /* JRLoopView3.app */,
+				349B386C1C4260070061343E /* JRLoopView4.app */,
+				349B38921C42B1460061343E /* JRLoopView5.app */,
 			);
 			name = Products;
 			sourceTree = "<group>";
@@ -61,12 +170,8 @@
 		3438DB2E1C408B4A00F7F6AB /* JRLoopView */ = {
 			isa = PBXGroup;
 			children = (
-				3438DB461C408BB500F7F6AB /* JRLoopView.h */,
-				3438DB471C408BB500F7F6AB /* JRLoopView.m */,
-				3438DB321C408B4A00F7F6AB /* AppDelegate.h */,
-				3438DB331C408B4A00F7F6AB /* AppDelegate.m */,
-				3438DB351C408B4A00F7F6AB /* ViewController.h */,
-				3438DB361C408B4A00F7F6AB /* ViewController.m */,
+				3438DB501C42280B00F7F6AB /* LoopClasses */,
+				3438DB4B1C42280B00F7F6AB /* Classes */,
 				3438DB2F1C408B4A00F7F6AB /* Supporting Files */,
 			);
 			path = JRLoopView;
@@ -80,6 +185,176 @@
 				3438DB3D1C408B4A00F7F6AB /* LaunchScreen.storyboard */,
 				3438DB401C408B4A00F7F6AB /* Info.plist */,
 				3438DB301C408B4A00F7F6AB /* main.m */,
+			);
+			name = "Supporting Files";
+			sourceTree = "<group>";
+		};
+		3438DB4B1C42280B00F7F6AB /* Classes */ = {
+			isa = PBXGroup;
+			children = (
+				3438DB4C1C42280B00F7F6AB /* AppDelegate.h */,
+				3438DB4D1C42280B00F7F6AB /* AppDelegate.m */,
+				3438DB4E1C42280B00F7F6AB /* ViewController.h */,
+				3438DB4F1C42280B00F7F6AB /* ViewController.m */,
+			);
+			path = Classes;
+			sourceTree = "<group>";
+		};
+		3438DB501C42280B00F7F6AB /* LoopClasses */ = {
+			isa = PBXGroup;
+			children = (
+				3438DB511C42280B00F7F6AB /* JRLoopView.h */,
+				3438DB521C42280B00F7F6AB /* JRLoopView.m */,
+			);
+			path = LoopClasses;
+			sourceTree = "<group>";
+		};
+		3438DB5B1C4228EA00F7F6AB /* JRLoopView2 */ = {
+			isa = PBXGroup;
+			children = (
+				3438DB761C42293C00F7F6AB /* LoopClasses */,
+				3438DB711C42293C00F7F6AB /* Classes */,
+				3438DB5C1C4228EA00F7F6AB /* Supporting Files */,
+			);
+			path = JRLoopView2;
+			sourceTree = "<group>";
+		};
+		3438DB5C1C4228EA00F7F6AB /* Supporting Files */ = {
+			isa = PBXGroup;
+			children = (
+				3438DB651C4228EA00F7F6AB /* Main.storyboard */,
+				3438DB681C4228EA00F7F6AB /* Assets.xcassets */,
+				3438DB6A1C4228EA00F7F6AB /* LaunchScreen.storyboard */,
+				3438DB6D1C4228EA00F7F6AB /* Info.plist */,
+				3438DB5D1C4228EA00F7F6AB /* main.m */,
+			);
+			name = "Supporting Files";
+			sourceTree = "<group>";
+		};
+		3438DB711C42293C00F7F6AB /* Classes */ = {
+			isa = PBXGroup;
+			children = (
+				3438DB721C42293C00F7F6AB /* AppDelegate.h */,
+				3438DB731C42293C00F7F6AB /* AppDelegate.m */,
+				3438DB741C42293C00F7F6AB /* ViewController.h */,
+				3438DB751C42293C00F7F6AB /* ViewController.m */,
+			);
+			path = Classes;
+			sourceTree = "<group>";
+		};
+		3438DB761C42293C00F7F6AB /* LoopClasses */ = {
+			isa = PBXGroup;
+			children = (
+				3438DB791C4229EE00F7F6AB /* JRLoopView.h */,
+				3438DB7A1C4229EE00F7F6AB /* JRLoopView.m */,
+			);
+			path = LoopClasses;
+			sourceTree = "<group>";
+		};
+		349B38471C425D8A0061343E /* JRLoopView3 */ = {
+			isa = PBXGroup;
+			children = (
+				349B38621C425DC60061343E /* LoopClasses */,
+				349B385D1C425DC60061343E /* Classes */,
+				349B38481C425D8A0061343E /* Supporting Files */,
+			);
+			path = JRLoopView3;
+			sourceTree = "<group>";
+		};
+		349B38481C425D8A0061343E /* Supporting Files */ = {
+			isa = PBXGroup;
+			children = (
+				349B38511C425D8B0061343E /* Main.storyboard */,
+				349B38541C425D8B0061343E /* Assets.xcassets */,
+				349B38561C425D8B0061343E /* LaunchScreen.storyboard */,
+				349B38591C425D8B0061343E /* Info.plist */,
+				349B38491C425D8B0061343E /* main.m */,
+			);
+			name = "Supporting Files";
+			sourceTree = "<group>";
+		};
+		349B385D1C425DC60061343E /* Classes */ = {
+			isa = PBXGroup;
+			children = (
+				349B385E1C425DC60061343E /* AppDelegate.h */,
+				349B385F1C425DC60061343E /* AppDelegate.m */,
+				349B38601C425DC60061343E /* ViewController.h */,
+				349B38611C425DC60061343E /* ViewController.m */,
+			);
+			path = Classes;
+			sourceTree = "<group>";
+		};
+		349B38621C425DC60061343E /* LoopClasses */ = {
+			isa = PBXGroup;
+			children = (
+				349B38631C425DC60061343E /* JRLoopView.h */,
+				349B38641C425DC60061343E /* JRLoopView.m */,
+			);
+			path = LoopClasses;
+			sourceTree = "<group>";
+		};
+		349B386D1C4260070061343E /* JRLoopView4 */ = {
+			isa = PBXGroup;
+			children = (
+				349B38881C42602C0061343E /* LoopClasses */,
+				349B38831C42602C0061343E /* Classes */,
+				349B386E1C4260070061343E /* Supporting Files */,
+			);
+			path = JRLoopView4;
+			sourceTree = "<group>";
+		};
+		349B386E1C4260070061343E /* Supporting Files */ = {
+			isa = PBXGroup;
+			children = (
+				349B38771C4260070061343E /* Main.storyboard */,
+				349B387A1C4260070061343E /* Assets.xcassets */,
+				349B387C1C4260070061343E /* LaunchScreen.storyboard */,
+				349B387F1C4260070061343E /* Info.plist */,
+				349B386F1C4260070061343E /* main.m */,
+			);
+			name = "Supporting Files";
+			sourceTree = "<group>";
+		};
+		349B38831C42602C0061343E /* Classes */ = {
+			isa = PBXGroup;
+			children = (
+				349B38841C42602C0061343E /* AppDelegate.h */,
+				349B38851C42602C0061343E /* AppDelegate.m */,
+				349B38861C42602C0061343E /* ViewController.h */,
+				349B38871C42602C0061343E /* ViewController.m */,
+			);
+			path = Classes;
+			sourceTree = "<group>";
+		};
+		349B38881C42602C0061343E /* LoopClasses */ = {
+			isa = PBXGroup;
+			children = (
+				349B38891C42602C0061343E /* JRLoopView.h */,
+				349B388A1C42602C0061343E /* JRLoopView.m */,
+			);
+			path = LoopClasses;
+			sourceTree = "<group>";
+		};
+		349B38931C42B1460061343E /* JRLoopView5 */ = {
+			isa = PBXGroup;
+			children = (
+				349B38971C42B1460061343E /* AppDelegate.h */,
+				349B38981C42B1460061343E /* AppDelegate.m */,
+				349B389A1C42B1460061343E /* ViewController.h */,
+				349B389B1C42B1460061343E /* ViewController.m */,
+				349B38941C42B1460061343E /* Supporting Files */,
+			);
+			path = JRLoopView5;
+			sourceTree = "<group>";
+		};
+		349B38941C42B1460061343E /* Supporting Files */ = {
+			isa = PBXGroup;
+			children = (
+				349B389D1C42B1460061343E /* Main.storyboard */,
+				349B38A01C42B1460061343E /* Assets.xcassets */,
+				349B38A21C42B1460061343E /* LaunchScreen.storyboard */,
+				349B38A51C42B1460061343E /* Info.plist */,
+				349B38951C42B1460061343E /* main.m */,
 			);
 			name = "Supporting Files";
 			sourceTree = "<group>";
@@ -104,6 +379,74 @@
 			productReference = 3438DB2C1C408B4A00F7F6AB /* JRLoopView.app */;
 			productType = "com.apple.product-type.application";
 		};
+		3438DB591C4228EA00F7F6AB /* JRLoopView2 */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 3438DB701C4228EA00F7F6AB /* Build configuration list for PBXNativeTarget "JRLoopView2" */;
+			buildPhases = (
+				3438DB561C4228EA00F7F6AB /* Sources */,
+				3438DB571C4228EA00F7F6AB /* Frameworks */,
+				3438DB581C4228EA00F7F6AB /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = JRLoopView2;
+			productName = JRLoopView2;
+			productReference = 3438DB5A1C4228EA00F7F6AB /* JRLoopView2.app */;
+			productType = "com.apple.product-type.application";
+		};
+		349B38451C425D8A0061343E /* JRLoopView3 */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 349B385C1C425D8B0061343E /* Build configuration list for PBXNativeTarget "JRLoopView3" */;
+			buildPhases = (
+				349B38421C425D8A0061343E /* Sources */,
+				349B38431C425D8A0061343E /* Frameworks */,
+				349B38441C425D8A0061343E /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = JRLoopView3;
+			productName = JRLoopView3;
+			productReference = 349B38461C425D8A0061343E /* JRLoopView3.app */;
+			productType = "com.apple.product-type.application";
+		};
+		349B386B1C4260070061343E /* JRLoopView4 */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 349B38801C4260070061343E /* Build configuration list for PBXNativeTarget "JRLoopView4" */;
+			buildPhases = (
+				349B38681C4260070061343E /* Sources */,
+				349B38691C4260070061343E /* Frameworks */,
+				349B386A1C4260070061343E /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = JRLoopView4;
+			productName = JRLoopView4;
+			productReference = 349B386C1C4260070061343E /* JRLoopView4.app */;
+			productType = "com.apple.product-type.application";
+		};
+		349B38911C42B1460061343E /* JRLoopView5 */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 349B38A61C42B1460061343E /* Build configuration list for PBXNativeTarget "JRLoopView5" */;
+			buildPhases = (
+				349B388E1C42B1460061343E /* Sources */,
+				349B388F1C42B1460061343E /* Frameworks */,
+				349B38901C42B1460061343E /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = JRLoopView5;
+			productName = JRLoopView5;
+			productReference = 349B38921C42B1460061343E /* JRLoopView5.app */;
+			productType = "com.apple.product-type.application";
+		};
 /* End PBXNativeTarget section */
 
 /* Begin PBXProject section */
@@ -114,6 +457,18 @@
 				ORGANIZATIONNAME = wxiao;
 				TargetAttributes = {
 					3438DB2B1C408B4A00F7F6AB = {
+						CreatedOnToolsVersion = 7.2;
+					};
+					3438DB591C4228EA00F7F6AB = {
+						CreatedOnToolsVersion = 7.2;
+					};
+					349B38451C425D8A0061343E = {
+						CreatedOnToolsVersion = 7.2;
+					};
+					349B386B1C4260070061343E = {
+						CreatedOnToolsVersion = 7.2;
+					};
+					349B38911C42B1460061343E = {
 						CreatedOnToolsVersion = 7.2;
 					};
 				};
@@ -132,6 +487,10 @@
 			projectRoot = "";
 			targets = (
 				3438DB2B1C408B4A00F7F6AB /* JRLoopView */,
+				3438DB591C4228EA00F7F6AB /* JRLoopView2 */,
+				349B38451C425D8A0061343E /* JRLoopView3 */,
+				349B386B1C4260070061343E /* JRLoopView4 */,
+				349B38911C42B1460061343E /* JRLoopView5 */,
 			);
 		};
 /* End PBXProject section */
@@ -147,6 +506,46 @@
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
+		3438DB581C4228EA00F7F6AB /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				3438DB6C1C4228EA00F7F6AB /* LaunchScreen.storyboard in Resources */,
+				3438DB691C4228EA00F7F6AB /* Assets.xcassets in Resources */,
+				3438DB671C4228EA00F7F6AB /* Main.storyboard in Resources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		349B38441C425D8A0061343E /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				349B38581C425D8B0061343E /* LaunchScreen.storyboard in Resources */,
+				349B38551C425D8B0061343E /* Assets.xcassets in Resources */,
+				349B38531C425D8B0061343E /* Main.storyboard in Resources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		349B386A1C4260070061343E /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				349B387E1C4260070061343E /* LaunchScreen.storyboard in Resources */,
+				349B387B1C4260070061343E /* Assets.xcassets in Resources */,
+				349B38791C4260070061343E /* Main.storyboard in Resources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		349B38901C42B1460061343E /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				349B38A41C42B1460061343E /* LaunchScreen.storyboard in Resources */,
+				349B38A11C42B1460061343E /* Assets.xcassets in Resources */,
+				349B389F1C42B1460061343E /* Main.storyboard in Resources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
 /* End PBXResourcesBuildPhase section */
 
 /* Begin PBXSourcesBuildPhase section */
@@ -154,10 +553,53 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				3438DB481C408BB500F7F6AB /* JRLoopView.m in Sources */,
-				3438DB371C408B4A00F7F6AB /* ViewController.m in Sources */,
-				3438DB341C408B4A00F7F6AB /* AppDelegate.m in Sources */,
+				3438DB541C42280B00F7F6AB /* ViewController.m in Sources */,
+				3438DB551C42280B00F7F6AB /* JRLoopView.m in Sources */,
 				3438DB311C408B4A00F7F6AB /* main.m in Sources */,
+				3438DB531C42280B00F7F6AB /* AppDelegate.m in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		3438DB561C4228EA00F7F6AB /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				3438DB7B1C4229EE00F7F6AB /* JRLoopView.m in Sources */,
+				3438DB781C42293C00F7F6AB /* ViewController.m in Sources */,
+				3438DB771C42293C00F7F6AB /* AppDelegate.m in Sources */,
+				3438DB5E1C4228EA00F7F6AB /* main.m in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		349B38421C425D8A0061343E /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				349B38671C425DC60061343E /* JRLoopView.m in Sources */,
+				349B38661C425DC60061343E /* ViewController.m in Sources */,
+				349B38651C425DC60061343E /* AppDelegate.m in Sources */,
+				349B384A1C425D8B0061343E /* main.m in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		349B38681C4260070061343E /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				349B388D1C42602C0061343E /* JRLoopView.m in Sources */,
+				349B388C1C42602C0061343E /* ViewController.m in Sources */,
+				349B388B1C42602C0061343E /* AppDelegate.m in Sources */,
+				349B38701C4260070061343E /* main.m in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		349B388E1C42B1460061343E /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				349B389C1C42B1460061343E /* ViewController.m in Sources */,
+				349B38991C42B1460061343E /* AppDelegate.m in Sources */,
+				349B38961C42B1460061343E /* main.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -176,6 +618,70 @@
 			isa = PBXVariantGroup;
 			children = (
 				3438DB3E1C408B4A00F7F6AB /* Base */,
+			);
+			name = LaunchScreen.storyboard;
+			sourceTree = "<group>";
+		};
+		3438DB651C4228EA00F7F6AB /* Main.storyboard */ = {
+			isa = PBXVariantGroup;
+			children = (
+				3438DB661C4228EA00F7F6AB /* Base */,
+			);
+			name = Main.storyboard;
+			sourceTree = "<group>";
+		};
+		3438DB6A1C4228EA00F7F6AB /* LaunchScreen.storyboard */ = {
+			isa = PBXVariantGroup;
+			children = (
+				3438DB6B1C4228EA00F7F6AB /* Base */,
+			);
+			name = LaunchScreen.storyboard;
+			sourceTree = "<group>";
+		};
+		349B38511C425D8B0061343E /* Main.storyboard */ = {
+			isa = PBXVariantGroup;
+			children = (
+				349B38521C425D8B0061343E /* Base */,
+			);
+			name = Main.storyboard;
+			sourceTree = "<group>";
+		};
+		349B38561C425D8B0061343E /* LaunchScreen.storyboard */ = {
+			isa = PBXVariantGroup;
+			children = (
+				349B38571C425D8B0061343E /* Base */,
+			);
+			name = LaunchScreen.storyboard;
+			sourceTree = "<group>";
+		};
+		349B38771C4260070061343E /* Main.storyboard */ = {
+			isa = PBXVariantGroup;
+			children = (
+				349B38781C4260070061343E /* Base */,
+			);
+			name = Main.storyboard;
+			sourceTree = "<group>";
+		};
+		349B387C1C4260070061343E /* LaunchScreen.storyboard */ = {
+			isa = PBXVariantGroup;
+			children = (
+				349B387D1C4260070061343E /* Base */,
+			);
+			name = LaunchScreen.storyboard;
+			sourceTree = "<group>";
+		};
+		349B389D1C42B1460061343E /* Main.storyboard */ = {
+			isa = PBXVariantGroup;
+			children = (
+				349B389E1C42B1460061343E /* Base */,
+			);
+			name = Main.storyboard;
+			sourceTree = "<group>";
+		};
+		349B38A21C42B1460061343E /* LaunchScreen.storyboard */ = {
+			isa = PBXVariantGroup;
+			children = (
+				349B38A31C42B1460061343E /* Base */,
 			);
 			name = LaunchScreen.storyboard;
 			sourceTree = "<group>";
@@ -287,6 +793,96 @@
 			};
 			name = Release;
 		};
+		3438DB6E1C4228EA00F7F6AB /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				INFOPLIST_FILE = JRLoopView2/Info.plist;
+				IPHONEOS_DEPLOYMENT_TARGET = 8.0;
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
+				PRODUCT_BUNDLE_IDENTIFIER = clib.sariel.lijin.JRLoopView2;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+			};
+			name = Debug;
+		};
+		3438DB6F1C4228EA00F7F6AB /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				INFOPLIST_FILE = JRLoopView2/Info.plist;
+				IPHONEOS_DEPLOYMENT_TARGET = 8.0;
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
+				PRODUCT_BUNDLE_IDENTIFIER = clib.sariel.lijin.JRLoopView2;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+			};
+			name = Release;
+		};
+		349B385A1C425D8B0061343E /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				INFOPLIST_FILE = JRLoopView3/Info.plist;
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
+				PRODUCT_BUNDLE_IDENTIFIER = clib.sariel.lijin.JRLoopView3;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+			};
+			name = Debug;
+		};
+		349B385B1C425D8B0061343E /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				INFOPLIST_FILE = JRLoopView3/Info.plist;
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
+				PRODUCT_BUNDLE_IDENTIFIER = clib.sariel.lijin.JRLoopView3;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+			};
+			name = Release;
+		};
+		349B38811C4260070061343E /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				INFOPLIST_FILE = JRLoopView4/Info.plist;
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
+				PRODUCT_BUNDLE_IDENTIFIER = clib.sariel.lijin.JRLoopView4;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+			};
+			name = Debug;
+		};
+		349B38821C4260070061343E /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				INFOPLIST_FILE = JRLoopView4/Info.plist;
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
+				PRODUCT_BUNDLE_IDENTIFIER = clib.sariel.lijin.JRLoopView4;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+			};
+			name = Release;
+		};
+		349B38A71C42B1460061343E /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				INFOPLIST_FILE = JRLoopView5/Info.plist;
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
+				PRODUCT_BUNDLE_IDENTIFIER = clib.sariel.lijin.JRLoopView5;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+			};
+			name = Debug;
+		};
+		349B38A81C42B1460061343E /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				INFOPLIST_FILE = JRLoopView5/Info.plist;
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
+				PRODUCT_BUNDLE_IDENTIFIER = clib.sariel.lijin.JRLoopView5;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+			};
+			name = Release;
+		};
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
@@ -304,6 +900,40 @@
 			buildConfigurations = (
 				3438DB441C408B4A00F7F6AB /* Debug */,
 				3438DB451C408B4A00F7F6AB /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		3438DB701C4228EA00F7F6AB /* Build configuration list for PBXNativeTarget "JRLoopView2" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				3438DB6E1C4228EA00F7F6AB /* Debug */,
+				3438DB6F1C4228EA00F7F6AB /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		349B385C1C425D8B0061343E /* Build configuration list for PBXNativeTarget "JRLoopView3" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				349B385A1C425D8B0061343E /* Debug */,
+				349B385B1C425D8B0061343E /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+		};
+		349B38801C4260070061343E /* Build configuration list for PBXNativeTarget "JRLoopView4" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				349B38811C4260070061343E /* Debug */,
+				349B38821C4260070061343E /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+		};
+		349B38A61C42B1460061343E /* Build configuration list for PBXNativeTarget "JRLoopView5" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				349B38A71C42B1460061343E /* Debug */,
+				349B38A81C42B1460061343E /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 		};
