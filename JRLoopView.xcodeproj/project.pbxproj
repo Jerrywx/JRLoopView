@@ -7,6 +7,9 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		340802601C4354D800C7C7CC /* ViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 3408025D1C4354D800C7C7CC /* ViewController.m */; };
+		340802631C43556D00C7C7CC /* JRLoopView1.m in Sources */ = {isa = PBXBuildFile; fileRef = 340802621C43556D00C7C7CC /* JRLoopView1.m */; };
+		340802691C43980600C7C7CC /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = 340802681C43980600C7C7CC /* AppDelegate.m */; };
 		3438DB311C408B4A00F7F6AB /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 3438DB301C408B4A00F7F6AB /* main.m */; };
 		3438DB3A1C408B4A00F7F6AB /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 3438DB381C408B4A00F7F6AB /* Main.storyboard */; };
 		3438DB3C1C408B4A00F7F6AB /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 3438DB3B1C408B4A00F7F6AB /* Assets.xcassets */; };
@@ -36,14 +39,18 @@
 		349B388C1C42602C0061343E /* ViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 349B38871C42602C0061343E /* ViewController.m */; };
 		349B388D1C42602C0061343E /* JRLoopView.m in Sources */ = {isa = PBXBuildFile; fileRef = 349B388A1C42602C0061343E /* JRLoopView.m */; };
 		349B38961C42B1460061343E /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 349B38951C42B1460061343E /* main.m */; };
-		349B38991C42B1460061343E /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = 349B38981C42B1460061343E /* AppDelegate.m */; };
-		349B389C1C42B1460061343E /* ViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 349B389B1C42B1460061343E /* ViewController.m */; };
 		349B389F1C42B1460061343E /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 349B389D1C42B1460061343E /* Main.storyboard */; };
 		349B38A11C42B1460061343E /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 349B38A01C42B1460061343E /* Assets.xcassets */; };
 		349B38A41C42B1460061343E /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 349B38A21C42B1460061343E /* LaunchScreen.storyboard */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		3408025C1C4354D800C7C7CC /* ViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ViewController.h; sourceTree = "<group>"; };
+		3408025D1C4354D800C7C7CC /* ViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = ViewController.m; sourceTree = "<group>"; };
+		340802611C43556D00C7C7CC /* JRLoopView1.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = JRLoopView1.h; sourceTree = "<group>"; };
+		340802621C43556D00C7C7CC /* JRLoopView1.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = JRLoopView1.m; sourceTree = "<group>"; };
+		340802671C43980600C7C7CC /* AppDelegate.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = AppDelegate.h; sourceTree = "<group>"; };
+		340802681C43980600C7C7CC /* AppDelegate.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = AppDelegate.m; sourceTree = "<group>"; };
 		3438DB2C1C408B4A00F7F6AB /* JRLoopView.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = JRLoopView.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		3438DB301C408B4A00F7F6AB /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
 		3438DB391C408B4A00F7F6AB /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
@@ -94,10 +101,6 @@
 		349B388A1C42602C0061343E /* JRLoopView.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = JRLoopView.m; sourceTree = "<group>"; };
 		349B38921C42B1460061343E /* JRLoopView5.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = JRLoopView5.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		349B38951C42B1460061343E /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
-		349B38971C42B1460061343E /* AppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = AppDelegate.h; sourceTree = "<group>"; };
-		349B38981C42B1460061343E /* AppDelegate.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = AppDelegate.m; sourceTree = "<group>"; };
-		349B389A1C42B1460061343E /* ViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = ViewController.h; sourceTree = "<group>"; };
-		349B389B1C42B1460061343E /* ViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = ViewController.m; sourceTree = "<group>"; };
 		349B389E1C42B1460061343E /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
 		349B38A01C42B1460061343E /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		349B38A31C42B1460061343E /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
@@ -143,6 +146,26 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
+		340802591C4354D800C7C7CC /* Classes */ = {
+			isa = PBXGroup;
+			children = (
+				340802671C43980600C7C7CC /* AppDelegate.h */,
+				340802681C43980600C7C7CC /* AppDelegate.m */,
+				3408025C1C4354D800C7C7CC /* ViewController.h */,
+				3408025D1C4354D800C7C7CC /* ViewController.m */,
+			);
+			path = Classes;
+			sourceTree = "<group>";
+		};
+		3408025E1C4354D800C7C7CC /* JRLoopClasses */ = {
+			isa = PBXGroup;
+			children = (
+				340802611C43556D00C7C7CC /* JRLoopView1.h */,
+				340802621C43556D00C7C7CC /* JRLoopView1.m */,
+			);
+			path = JRLoopClasses;
+			sourceTree = "<group>";
+		};
 		3438DB231C408B4A00F7F6AB = {
 			isa = PBXGroup;
 			children = (
@@ -338,10 +361,8 @@
 		349B38931C42B1460061343E /* JRLoopView5 */ = {
 			isa = PBXGroup;
 			children = (
-				349B38971C42B1460061343E /* AppDelegate.h */,
-				349B38981C42B1460061343E /* AppDelegate.m */,
-				349B389A1C42B1460061343E /* ViewController.h */,
-				349B389B1C42B1460061343E /* ViewController.m */,
+				3408025E1C4354D800C7C7CC /* JRLoopClasses */,
+				340802591C4354D800C7C7CC /* Classes */,
 				349B38941C42B1460061343E /* Supporting Files */,
 			);
 			path = JRLoopView5;
@@ -597,9 +618,10 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				349B389C1C42B1460061343E /* ViewController.m in Sources */,
-				349B38991C42B1460061343E /* AppDelegate.m in Sources */,
+				340802631C43556D00C7C7CC /* JRLoopView1.m in Sources */,
+				340802601C4354D800C7C7CC /* ViewController.m in Sources */,
 				349B38961C42B1460061343E /* main.m in Sources */,
+				340802691C43980600C7C7CC /* AppDelegate.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -920,6 +942,7 @@
 				349B385B1C425D8B0061343E /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		349B38801C4260070061343E /* Build configuration list for PBXNativeTarget "JRLoopView4" */ = {
 			isa = XCConfigurationList;
@@ -928,6 +951,7 @@
 				349B38821C4260070061343E /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		349B38A61C42B1460061343E /* Build configuration list for PBXNativeTarget "JRLoopView5" */ = {
 			isa = XCConfigurationList;
@@ -936,6 +960,7 @@
 				349B38A81C42B1460061343E /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
